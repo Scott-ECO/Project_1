@@ -33,7 +33,6 @@ class MCSimulation:
     def __init__(self, portfolio_data, weights="", num_simulation=1000, num_trading_days=252):
         """
         Constructs all the necessary attributes for the MCSimulation object.
-
         Parameters
         ----------
         portfolio_data: pandas.DataFrame
@@ -76,7 +75,6 @@ class MCSimulation:
     def calc_cumulative_return(self):
         """
         Calculates the cumulative return of a stock over time using a Monte Carlo simulation (Brownian motion with drift).
-
         """
         
         # Get closing prices of each stock
@@ -128,7 +126,6 @@ class MCSimulation:
     def plot_simulation(self):
         """
         Visualizes the simulated stock trajectories using calc_cumulative_return method.
-
         """ 
         
         # Check to make sure that simulation has run previously. 
@@ -137,12 +134,11 @@ class MCSimulation:
             
         # Use Pandas plot function to plot the return data
         plot_title = f"{self.nSim} Simulations of Cumulative Portfolio Return Trajectories Over the Next {self.nTrading} Trading Days."
-        return self.simulated_return.plot(legend=None,title=plot_title)
+        return [self.simulated_return.plot(legend=None,title=plot_title), self.simulated_return]
     
     def plot_distribution(self):
         """
         Visualizes the distribution of cumulative returns simulated using calc_cumulative_return method.
-
         """
         
         # Check to make sure that simulation has run previously. 
