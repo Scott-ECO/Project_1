@@ -29,12 +29,20 @@ The data source we had selected for dynamically pulling historical weather data 
 
 Example Country 1: Singapore
 #
+    Monte Carlo
 
+    Beta
 Example Country 2: Turkey
 #
+    Monte Carlo
+    
+    Beta
 
 Example Country 3: United Kingdom
 #
+    Monte Carlo
+
+    Beta
 
 Comparison Statistics and Ratios
 
@@ -56,3 +64,14 @@ Comparison Statistics and Ratios
     - GBPUSD Daily Returns        True
     - US Dollar Daily Returns    False
 
+### What Countries Currency is the riskiest?
+    - Turkey
+### What country is the most volatile?
+    - Turkey
+
+### What Country is the most stable with least volatile?
+    - Singapore
+
+### Overview or Suggestion to Traveler?
+
+Due to the volatility and greater devaluation against the US Dollar travelers should hold off on converting currency today and exchange closer to their travel date. The risk is due to the volatility spikes in daily returns this could impact the expected receipt of income. All three of the examples including the most stable have a (negative) beta to USD and thus devaluing over time the most pronounced is Turkey however beta is relatively flat . There is little advantage to converting now and should be done closer to date of travel for all currencies selected.
