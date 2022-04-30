@@ -29,27 +29,27 @@ The data source we had selected for dynamically pulling historical weather data 
 
 Example Country 1: Singapore
 #
-    Monte Carlo
-    [link] https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/MonteCarloPlot1.PNG
+   Monte Carlo
+    ![](https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/MonteCarloPlot1.PNG)
 
-    Beta
-    [link] https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Beta1.PNG
+   Beta
+    [![](https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Beta1.PNG)
     
 Example Country 2: Turkey
 #
-    Monte Carlo
-    [link] https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/MonteCarloPlot1.PNG
+   Monte Carlo
+    ![](https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/MonteCarloPlot1.PNG)
     
-    Beta
-    [link] https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Beta2.PNG
+   Beta
+    ![](https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Beta2.PNG)
 
 Example Country 3: United Kingdom
 #
-    Monte Carlo
-    [link] https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/MonteCarloPlot1.PNG
+   Monte Carlo
+    ![](https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/MonteCarloPlot1.PNG)
     
-    Beta
-    [link] https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Beta3.PNG
+   Beta
+    ![](https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Beta3.PNG)
     
 
 ### Comparison Statistics and Ratios
@@ -87,16 +87,16 @@ Due to the volatility and greater devaluation against the US Dollar travelers sh
 ## Appendix
 
 ### Volatility
-[link] https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Volatility-ALL.PNG
+![](https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Volatility-ALL.PNG)
 
 ### Correllation
-[link] https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Correllation-ALL.PNG
+![](https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Correllation-ALL.PNG)
 
 ### Skewness (Box plot)
-[link] https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Boxplot_ALL.PNG
+![](https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Boxplot_ALL.PNG)
 
 ### Daily Returns
-[link] https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/DailyReturns-ALL.PNG
+![](https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/DailyReturns-ALL.PNG)
 
 ### Cumulative Returns
-[link] https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/CumulativeReturns-ALL.PNG
+![](https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/CumulativeReturns-ALL.PNG)
