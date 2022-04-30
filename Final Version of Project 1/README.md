@@ -30,21 +30,29 @@ The data source we had selected for dynamically pulling historical weather data 
 Example Country 1: Singapore
 #
     Monte Carlo
+    https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/MonteCarloPlot1.PNG
 
     Beta
+    https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Beta1.PNG
+    
 Example Country 2: Turkey
 #
     Monte Carlo
+    https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/MonteCarloPlot1.PNG
     
     Beta
+    https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Beta2.PNG
 
 Example Country 3: United Kingdom
 #
     Monte Carlo
-
+    https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/MonteCarloPlot1.PNG
+    
     Beta
+    https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Beta3.PNG
+    
 
-Comparison Statistics and Ratios
+### Comparison Statistics and Ratios
 
 - Standard Deviations ( Daily ):
     - SGDUSD Daily Returns       0.003131
@@ -75,3 +83,20 @@ Comparison Statistics and Ratios
 ### Overview or Suggestion to Traveler?
 
 Due to the volatility and greater devaluation against the US Dollar travelers should hold off on converting currency today and exchange closer to their travel date. The risk is due to the volatility spikes in daily returns this could impact the expected receipt of income. All three of the examples including the most stable have a (negative) beta to USD and thus devaluing over time the most pronounced is Turkey however beta is relatively flat . There is little advantage to converting now and should be done closer to date of travel for all currencies selected.
+
+## Appendix
+
+### Volatility
+https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Volatility-ALL.PNG
+
+### Correllation
+https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Correllation-ALL.PNG
+
+### Skewness (Box plot)
+https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/Boxplot_ALL.PNG
+
+### Daily Returns
+https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/DailyReturns-ALL.PNG
+
+### Cumulative Returns
+https://github.com/Scott-ECO/Project_1/blob/main/Final%20Version%20of%20Project%201/Resources/CumulativeReturns-ALL.PNG
